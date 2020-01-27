@@ -1,6 +1,6 @@
 # Introdução à linguagem Python
 
-Material para apresentar de forma introdutória `python`, uma poderosa linguagem de programação de scripts. Abaixo a lista de aulas, recomenda-se de 3h~5h de aula por aula se não há ou há pouca experiência em programação, e 1h~2h caso contrário.
+Material para apresentar de forma introdutória `python`, uma poderosa linguagem de programação de scripts. Abaixo a lista de aulas, recomenda-se de 3h-5h de aula por aula se não há ou há pouca experiência em programação, e 1h-2h caso contrário.
 
 0. [Configuração](./Aula_0_Configuracao.md)
 
