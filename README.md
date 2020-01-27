@@ -1,6 +1,6 @@
 # Introdução à linguagem Python
 
-0. [Configuração](#)
+0. [Configuração](./Aula_0_Configuracao)
 
 1. Tipos, operadores e I/O  
     * Números
