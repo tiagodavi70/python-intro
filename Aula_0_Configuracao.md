@@ -1,6 +1,7 @@
 # Aula 0 - Configuração
 
-Python é uma linguagem
+Em windows, faça o download do executável pelo [site](https://www.python.org/). Para distribuições linux e macos se não houver instalação nativa, utilize `apt-get` ou `brew` para baixar os executáveis. 
+
 
 
 # Erros e dúvidas
