@@ -1,5 +1,7 @@
 # Introdução à linguagem Python
 
+0. [Configuração](#)
+
 1. Tipos, operadores e I/O  
     * Números
     * Strings
