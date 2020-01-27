@@ -1,6 +1,6 @@
 # Aula 0 - Configuração
 
-Em windows, faça o download do executável pelo [site](https://www.python.org/). Para distribuições linux e macos se não houver instalação nativa, utilize `apt-get` ou `brew` para baixar os executáveis. 
+Em windows, faça o download do executável pelo [site](https://www.python.org/). Para distribuições linux e macos se não houver instalação nativa, utilize `apt-get` ou `brew` para baixar os executáveis. Recomenda-se o editor de texto [VSCode](https://code.visualstudio.com/), que além do destaque da sintaxe também dá acesso a um terminal na mesma tela, evitando trocas de contexto.
 
 
 
