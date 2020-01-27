@@ -4,35 +4,35 @@ Material para apresentar de forma introdutória `python`, uma poderosa linguagem
 
 0. [Configuração](./Aula_0_Configuracao.md)
 
-1. [Tipos, operadores e I/O](./Aula_1_Operadores)  
+1. [Tipos, operadores e I/O](./Aula_1_Operadores.md)  
     * Números
     * Strings
     * Booleanos
 
-2. [Estruturas de controle](./Aula_2_Controle)
+2. [Estruturas de controle](./Aula_2_Controle.md)
     * Decisão
     * Repetição
     * Funções
 
-3. [Estruturas de dados](./Aula_3_Estrutura)
+3. [Estruturas de dados](./Aula_3_Estrutura.md)
     * Listas
     * Arrays
     * Tuplas
     * Dicionários
 
-4. [Orientação a objetos e bibliotecas](./Aula_4_POO)
+4. [Orientação a objetos e bibliotecas](./Aula_4_POO.md)
     * Classes
     * Herança
     * Importando e criando bibliotecas
     * pip
 
-5. [Numpy](./Aula_5_Numpy)
+5. [Numpy](./Aula_5_Numpy.md)
     * Indexação inteiros
     * Indexação booleanos
     * Fucking broadcast
     * Aritmética de vetores
 
-6. [Matplotlib e pandas](./Aula_6_Pandas)
+6. [Matplotlib e pandas](./Aula_6_Pandas.md)
    * Dataframes
    * Indexação e busca
    * Visualizações
