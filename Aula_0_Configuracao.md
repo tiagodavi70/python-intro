@@ -11,4 +11,4 @@ C:\>python
 'python' não é reconhecido como um comando interno ou externo, um programa operável ou um arquivo em lotes.
 ```
 
-Esse [link](https://dicasdepython.com.br/resolvido-python-nao-e-reconhecido-como-um-comando-interno/) apresenta os passos para solução desse problema
+Esse [link](https://dicasdepython.com.br/resolvido-python-nao-e-reconhecido-como-um-comando-interno/) apresenta os passos para solução desse problema.
