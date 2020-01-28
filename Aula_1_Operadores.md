@@ -16,7 +16,7 @@ def bubble_sort(lista):
 ```
 Python dispõe de dois modos, um modo interativo, acessível utilizando o executável `python` na linha de comando, e um modo de execução de scripts, disponível através de `python <caminho do script> <argumentos>`. Em windows o modo interativo deve aparecer desse modo:
 
-``` bash
+```
 C:\Users\Tiago>python
 Python 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
