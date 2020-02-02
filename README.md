@@ -14,26 +14,34 @@ Material para apresentar de forma introdutória `python`, uma poderosa linguagem
     * Repetição
     * Funções
 
-3. [Estruturas de dados](./Aula_3_Estrutura.md)
+3. Estruturas de dados
     * Listas
     * Arrays
     * Tuplas
     * Dicionários
 
-4. [Orientação a objetos e bibliotecas](./Aula_4_POO.md)
+4. Orientação a objetos e bibliotecas
     * Classes
     * Herança
     * Importando e criando bibliotecas
     * pip
 
-5. [Numpy](./Aula_5_Numpy.md)
+5. Numpy
     * Indexação inteiros
     * Indexação booleanos
     * Fucking broadcast
     * Aritmética de vetores
 
-6. [Matplotlib e pandas](./Aula_6_Pandas.md)
+6. Matplotlib e pandas
    * Dataframes
    * Indexação e busca
    * Visualizações
+
+Exercícios originais de:
+* Msc. Tiago Araújo
+* Prof M.Sc. Anderson Soares
+
+Inspirados por:
+* Introdução à Programação: 500 Algoritmos Resolvidos, Anita Lopes & Guto Garcia
+
 
