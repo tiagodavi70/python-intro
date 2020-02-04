@@ -12,36 +12,30 @@ Material para apresentar de forma introdutória `python`, uma poderosa linguagem
 2. [Estruturas de controle](./Aula_2_Controle.md)
     * Decisão
     * Repetição
-    * Funções
 
-3. Estruturas de dados
+3. Estruturas de dados, funções e bibliotecas
+    * Função
+    * Bibliotecas e pip   
     * Listas
-    * Arrays
-    * Tuplas
-    * Dicionários
+    * Tuplas e Dicionários
+    * Slicing
 
-4. Orientação a objetos e bibliotecas
-    * Classes
-    * Herança
-    * Importando e criando bibliotecas
-    * pip
-
-5. Numpy
+4. Numpy
     * Indexação inteiros
     * Indexação booleanos
-    * Fucking broadcast
+    * Broadcast
     * Aritmética de vetores
 
-6. Matplotlib e pandas
+5. Matplotlib e pandas
    * Dataframes
    * Indexação e busca
    * Visualizações
 
-Exercícios originais de:
+Exercícios por de:
 * Msc. Tiago Araújo
 * Prof M.Sc. Anderson Soares
 
-Inspirados por:
+Inspirados:
 * Introdução à Programação: 500 Algoritmos Resolvidos, Anita Lopes & Guto Garcia
 
 
