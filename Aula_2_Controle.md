@@ -218,10 +218,10 @@ as pessoas analisadas.
 17. Escreva um script que receba o valor e o código de várias mercadorias vendidas em um determinado dia. Os códigos obedecem a lista abaixo:
     * "L" limpeza
     * "A" alimentação
-    * "H" higiene
+    * "H" higiene  
 Ao final apresente:
-    * o total vendido naquele dia, com todos os códigos juntos;
-    * o total vendido naquele dia em cada um dos códigos.
+    * o total vendido naquele dia, com todos os códigos juntos
+    * o total vendido naquele dia em cada um dos códigos
 
 18. Dado um país A, com 5.000.000 de habitantes e uma taxa de natalidade de
 3% ao ano, e um país B com 7.000.000 de habitantes e uma taxa de
