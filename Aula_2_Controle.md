@@ -159,10 +159,10 @@ Escreva um script que possa entrar com nome do produto e valor da compra e impri
 14.  Escreva um script para conversão de temperatura. O usuário deve escolher se
 a conversão será de (1) grau Celsius para Fahrenheit ou de (2) Fahrenheit
 para Celsius, e em seguida deve entrar com uma temperatura. As fórmulas de conversão estão descritas
-abaixo:
-F : Temperatura em Fahrenheit; C :Temperatura em Celsius
-Celsius-Fahrenheit :F = (9 * C + 160) / 5;
-Fahrenheit-Celsius: C = (F - 32) * (5 / 9);
+abaixo:  
+F : Temperatura em Fahrenheit; C :Temperatura em Celsius  
+* Celsius-Fahrenheit: F = (9 * C + 160) / 5
+* Fahrenheit-Celsius: C = (F - 32) * (5 / 9);
 
 15. Escreva um script que implemente uma calculadora simples com 4 operações. Considere divisão por zero.
 
