@@ -21,7 +21,7 @@ Material para apresentar de forma introdutória `python`, uma poderosa linguagem
 
 4. [Numpy](https://numpy.org/devdocs/user/quickstart.html)
    
-Exercícios por de:
+Exercícios por:
 * Msc. Tiago Araújo
 * Prof M.Sc. Anderson Soares
 
