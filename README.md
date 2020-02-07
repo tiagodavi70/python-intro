@@ -13,29 +13,19 @@ Material para apresentar de forma introdutória `python`, uma poderosa linguagem
     * Decisão
     * Repetição
 
-3. Estruturas de dados, funções e bibliotecas
-    * Função
-    * Bibliotecas e pip   
+3. [Estruturas de dados, funções e módulos](./Aula_3_Listas.md)
     * Listas
     * Tuplas e Dicionários
     * Slicing
+    * Função e módulos
 
-4. Numpy
-    * Indexação inteiros
-    * Indexação booleanos
-    * Broadcast
-    * Aritmética de vetores
-
-5. Matplotlib e pandas
-   * Dataframes
-   * Indexação e busca
-   * Visualizações
-
+4. [Numpy](https://numpy.org/devdocs/user/quickstart.html)
+   
 Exercícios por de:
 * Msc. Tiago Araújo
 * Prof M.Sc. Anderson Soares
 
-Inspirados:
+Inspirados em:
 * Introdução à Programação: 500 Algoritmos Resolvidos, Anita Lopes & Guto Garcia
 
 
