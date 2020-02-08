@@ -88,6 +88,28 @@ while i < 4:
 O laço executa enquanto a afirmativa for verdadeira, então deve-se tomar cuidado para não cair em uma situação de loop infinito, no qual a afirmativa sempre é verdadeira.  
 Para ambos os casos, perceba o uso da indentação para separar os blocos.   
 
+Para fins de otimização, para evitar computação inútil é possível controlar os laços com os comandos `break` e `continue`. 
+O comando `break` para a execução do laço, e o comando `continue` ignora todo o resto do laço, mas continue
+``` python
+>>> for i in range(10):
+...  if i == 3:
+...    break
+...  print(i)
+...
+0
+1
+2
+>>> for i in range(5):
+...  if i == 3:
+...    continue
+...  print(i)
+...
+0
+1
+2
+4
+```
+
 Uma forma de criar listas é utilizando a função `range()`, que suporta até três parâmetros. Essa função auxilia na criação automtática de listas. 
 * Mostra na tela a contagem de 0 até 9
 ``` python
@@ -107,7 +129,7 @@ for i in range(1,11):
 for i in range(0,11,2):
     print(i)
 ```
-
+ 
 ## Exercícios
 
 ### Decisão
