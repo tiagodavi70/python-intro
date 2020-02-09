@@ -260,15 +260,17 @@ Altura: 4
     * cadastrar produto
     * editar produto
     * vender pruduto
-    * gerar relatório
-Na opção de cadastro o usuário deve entrar com:
+    * gerar relatório   
+    
+    Na opção de cadastro o usuário deve entrar com:
     * nome do produto
     * preço
     * tipo  
-Para cada produto cadastrado deve ser gerado um código.  
-Na opção de editar deve permitir atualização do nome do produto.  
-Na opção vender produto deve registrar uma venda do produto.  
-E na opção gerar relatório deve mostrar o valor total ganho e 
+    
+    Para cada produto cadastrado deve ser gerado um código.  
+    Na opção de editar deve permitir atualização do nome do produto.  
+    Na opção vender produto deve registrar uma venda do produto.  
+    E na opção gerar relatório deve mostrar o valor total ganho e a média por produto.
 
 
 14. Escreva uma função que dado uma tupla `(m,n)` retorna uma matrix `M` com `m` linhas 
