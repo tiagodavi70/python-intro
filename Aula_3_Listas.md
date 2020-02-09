@@ -264,7 +264,7 @@ Altura: 4
 Na opção de cadastro o usuário deve entrar com:
     * nome do produto
     * preço
-    * tipo
+    * tipo  
 Para cada produto cadastrado deve ser gerado um código.  
 Na opção de editar deve permitir atualização do nome do produto.  
 Na opção vender produto deve registrar uma venda do produto.  
