@@ -182,7 +182,7 @@ yvan está na lista
 diego está na lista
 ```
 
-Além das funções nativas, python também oferece alguns módulos de forma nativa. Uma bibilioteca é um conjunto de funções e classes que podem ser reutilizados, são declarados em arquivos diferentes e devem ser referenciados. Um módulo deve ser importado utilizando a palavra chave `import` seguindo do nome do módulo. O módulo `random` pode gerar valores aleatórios entre `[0.0, 1.0[`. 
+Além das funções nativas, python também oferece alguns módulos de forma nativa. Uma bibilioteca é um conjunto de funções e classes que podem ser reutilizados, são declarados em arquivos diferentes e devem ser referenciados. Um módulo deve ser importado utilizando a  palavra chave `import` seguindo do nome do módulo. O módulo `random` pode gerar valores aleatórios entre `[0.0, 1.0[`. 
 
 ``` python
 >>> import math
@@ -273,8 +273,7 @@ Altura: 4
     E na opção gerar relatório deve mostrar o valor total ganho e a média por produto.
 
 
-14. Escreva uma função que dado uma tupla `(m,n)` retorna uma matrix `M` com `m` linhas 
-e `n` colunas de valores aleatórios.
+14. Escreva uma função que dado uma tupla `(m,n)` retorna uma matrix `M` com `m` linhas e `n` colunas de valores aleatórios.
 
 15. Escreva um script que receba uma matrix `(m,n)` e calcule seu somatório e média.
 
