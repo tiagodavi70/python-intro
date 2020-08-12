@@ -44,6 +44,27 @@ com tipos numericos nos permite a construção de matrizes.
 10
 ```
 
+Abaixo um exemplo para que o usuário adicione uma lista valores de entrada. 
+``` python
+lista_usuarios = []
+for i in range(5):
+    list_usuarios.append(input("Entre com o valor"))
+print("Valores de entrada: ",lista_usuarios)
+```
+
+
+Python dispõe de um método para aplicar transformações em uma lista, chamado de compreensão de lista. Abaixo um exemplo para dobrar os valores de uma lista. 
+``` python
+lista = [1, 2, 3, 4, 5]
+b = []
+for i in range(len(lista)):
+    b.append(lista[i] * 2)
+
+c = [a * 2 for a in lista]
+
+print(b, c)
+``` 
+
 Em adiçao ao acesso individual dos elementos de uma lista, python dispõe de uma sintaxe de acesso de sublistas.
 Essa técnica é conhecida como slicing.
 ``` python
@@ -64,6 +85,8 @@ Essa técnica é conhecida como slicing.
 >>> print(nums)
 [0, 1, 8, 9, 4]      
 ```
+
+
 
 Além das listas, python dispõe também de mais duas importantes estruturas de dados: dicionarios e tuplas.
 Um dicionário é uma estrutura chave-valor, em que as chaves tem que ser únicas. Uma tupla é uma sequência imutável, e funciona como uma lista, inclusive com indexação e slicing.
