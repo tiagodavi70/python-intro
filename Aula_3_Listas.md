@@ -250,7 +250,7 @@ Olá Tiago!
 3. Escreva um script que crie uma lista com 5 nomes para guardar. O vetor deve ser preenchido pelo usuário e ao
 final deve ser feita uma consulta com um novo nome para saber se ele está ou não cadastrado.
 
-4. Escreva uma função que dado um crie um vetor com `n` posições aleatórias.
+4. Escreva uma função que dado um valor `n` crie um vetor com `n` posições aleatórias.
 
 5. Escreva um script que mostre na tela os quadrados de 1 até 15.
 
